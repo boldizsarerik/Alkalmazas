@@ -1,0 +1,6 @@
+A kör vagy körvonal a geometriában egy sík azon pontjainak halmaza (régies szóhasználattal mértani helye), amelyek a sík egy meghatározott pontjától (középpont) adott távolságra (sugár) vannak. Körlapnak, illetve körlemeznek nevezzük azon pontok halmazát, melyekre a távolság kisebb vagy egyenlõ a sugárral.
+
+A sugár (r) a kör középpontját és a kör egy pontját összekötõ szakasz, de ezek hosszát is sugárnak szokták nevezni, habár sugárhossz lenne a helyes. Ha a kör sugara egységnyi, akkor egységkörnek is nevezik.
+
+Az átmérõ (d) olyan húr, amely tartalmazza a középpontot ( áthalad a középponton / belsõ pontja a középpont). E szakaszok hosszát is szokták egyszerûen átmérõnek nevezni. Az átmérõ hossza kétszer akkora, mint a sugár hossza ( d = 2*r).
+

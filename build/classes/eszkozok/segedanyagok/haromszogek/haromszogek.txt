@@ -1,0 +1,18 @@
+A geometriában a háromszög olyan sokszög, amelynek három oldala, másként fogalmazva három csúcsa van. Egy A, B és C csúcsokkal rendelkezõ háromszög írásban így is jelölhetõ: ABC?
+
+A háromszögeket csoportokba oszthatjuk oldalaik egymáshoz viszonyított hossza szerint:
+
+1)Az általános háromszög minden oldala különbözõ hosszú, és belsõ szögei is különbözõek.
+
+2)Az egyenlõ szárú háromszögnek legalább két oldala azonos hosszúságú. Egyben két belsõ szöge is ugyanakkora (az alapon fekvõ szögek).
+
+3)Az egyenlõ oldalú háromszög vagy szabályos háromszög minden oldala azonos hosszúságú. Egyben minden belsõ szöge is ugyanakkora, mégpedig 60°.
+
+
+A háromszögek csoportosíthatók legnagyobb belsõ szögük mérete szerint is:
+
+1)A derékszögû háromszögnek van egy 90°-os belsõ szöge (egy derékszög). A derékszöggel szemközti oldalt átfogónak, a másik két oldalt befogóknak nevezzük.
+
+2)A tompaszögû háromszögnek van egy 90°-nál nagyobb belsõ szöge (egy tompaszög).
+
+3)A hegyesszögû háromszögnek mindhárom szöge 90°-nál kisebb (három hegyesszög).

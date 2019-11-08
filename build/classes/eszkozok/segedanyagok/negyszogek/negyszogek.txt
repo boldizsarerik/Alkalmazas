@@ -1,0 +1,15 @@
+A geometriában a négyszög olyan sokszög, amelynek négy oldala és négy csúcsa van. A belsõ szögeinek összege 360°.
+
+A matematika a kategóriákat bezárólag értelmezi. Emiatt egy négyzetrõl például elmondhatjuk, hogy egyben téglalap, rombusz. Ha a négyzeteket mint egy halmazt szemléljük, akkor a négyzetek halmaza például olyan halmaz lesz, mely a paralelogrammák, húrnégyszögek és deltoidok halmazának metszete.
+
+Négyzet (szabályos négyszög): mind a négy oldal egyenlõ hosszúságú, és minden szöge derékszög. Ebbõl az is következik, hogy a szemközti oldalak párhuzamosak és páronként egyenlõ hosszúak, illetve hogy az átlók egyenlõ hosszúak, derékszögben metszik és felezik egymást. A négyzet egyszerre téglalap, paralelogramma, deltoid és húrnégyszög.
+
+Téglalap: minden szöge derékszögû. Ebbõl az is következik, hogy a szemközti oldalak párhuzamosak és páronként egyenlõ hosszúak, illetve hogy az átlók egyenlõ hosszúak és felezik egymást. A téglalap egyben paralelogramma és húrnégyszög is.
+
+Rombusz: mind a négy oldal egyenlõ hosszúságú. Ebbõl az is következik, hogy a szemközti oldalak párhuzamosak, a szemközti szögek egyenlõek, és az átlók merõlegesen metszik és felezik egymást. A rombusz egyben deltoid és érintõnégyszög is.
+
+Deltoid: két-két egymás melletti oldal azonos hosszúságú. Ebbõl az is következik, hogy a szögek közül az egyik megegyezik a vele szemközti szöggel, és hogy az egyik átló merõlegesen metszi a másikat, és felezi azt.
+
+Trapéz: legalább két szemközti oldala párhuzamos.
+
+Paralelogramma: a két-két szemközti oldal párhuzamos. Ebbõl az is következik, hogy a szemközti oldalak egyforma hosszúak, a szemközti szögek egyenlõek, és az átlók felezik egymást. Minden paralelogramma trapéz.
